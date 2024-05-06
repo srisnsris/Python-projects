@@ -7,3 +7,4 @@ print(pd.Series(S))
 d={'name':['sri','ni','v','as'],'rno':['1','2','3','4']}
 
 print(pd.DataFrame(d))
+
